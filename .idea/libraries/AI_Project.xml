@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AI_Project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/games.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NaivePlayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
